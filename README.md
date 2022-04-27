@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=1700&section=header&text=KoYeungGuk&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=170&section=header&text=KoYeungGuk&fontSize=70)
 
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 
