@@ -25,9 +25,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Engineer Information Processing-512BD4"/></a>&nbsp 
   <img src="https://img.shields.io/badge/DSAC Programmer(3rd grade)-40AEF0"/></a>&nbsp 
+  <br>
   <img src="https://img.shields.io/badge/Engineer Big Data Analysis(ing..)-000000"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SQLD(ing..)-000000"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AZ-900(ing..)-000000"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AZ--900(ing..)-000000"/></a>&nbsp 
 </p>
 <br>
 
