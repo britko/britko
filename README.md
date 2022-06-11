@@ -9,29 +9,29 @@
   <img src="https://img.shields.io/badge/JavaScript-FFB13B?logo=JavaScript&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=flat-square"/> 
-  <img src="https://img.shields.io/badge/Go-11B48A?logo=Go&logoColor=white&style=flat-square"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat-square"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Go-11B48A?logo=Go&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat-square"/>
   <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat-square"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring&logoColor=white&style=flat-square"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?logo=MySql&logoColor=white&style=flat-square"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat-square"/></a> &nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?logo=MySql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat-square"/><
   <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?logo=amazon-aws&logoColor=white&style=flat-square"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat-square"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/aws-333664?logo=amazon-aws&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat-square"/>
 </p>
 <br>
 
 <h3 align="center"> 🪪 Certificate 🪪 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Engineer Information Processing-512BD4"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/DSAC Programmer(3rd grade)-40AEF0"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Engineer Information Processing-512BD4"/>
+  <img src="https://img.shields.io/badge/DSAC Programmer(3rd grade)-40AEF0"/>
   <br>
-  <img src="https://img.shields.io/badge/Engineer Big Data Analysis(ing..)-000000"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SQLD(ing..)-000000"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AZ--900(ing..)-000000"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Engineer Big Data Analysis(ing..)-000000"/>
+  <img src="https://img.shields.io/badge/SQLD(ing..)-000000"/>
+  <img src="https://img.shields.io/badge/AZ--900(ing..)-000000"/>
 </p>
 <br>
 
