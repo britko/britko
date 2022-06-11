@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?logo=MySql&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat-square"/><
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat-square"/>
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square"/>
