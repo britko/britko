@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/Engineer Information Processing-512BD4"/>
   <img src="https://img.shields.io/badge/DSAC Programmer(3rd grade)-40AEF0"/>
   <br>
+  <img src="https://img.shields.io/badge/SQLD-F0FFF0"/>
   <img src="https://img.shields.io/badge/Engineer Big Data Analysis(ing..)-000000"/>
-  <img src="https://img.shields.io/badge/SQLD(ing..)-000000"/>
   <img src="https://img.shields.io/badge/AZ--900(ing..)-000000"/>
 </p>
 <br>
