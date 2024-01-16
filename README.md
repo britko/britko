@@ -23,6 +23,8 @@
 
 <h3 align="center"> 🧾 Certificate 🧾 </h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/CKA-427AF4"/>
+  <br>
   <img src="https://img.shields.io/badge/Engineer Information Processing-512BD4"/>
   <img src="https://img.shields.io/badge/SQLD-40AEF0"/>
   <br>
