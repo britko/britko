@@ -21,7 +21,7 @@
 </p>
 <br>
 
-<h3 align="center"> 🧾 Certificate 🧾 </h3>
+<h3 align="center"> 🧾 Certification 🧾 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/CKA-427AF4"/>
   <br>
